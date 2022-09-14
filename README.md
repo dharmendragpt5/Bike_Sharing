@@ -1,6 +1,6 @@
 <h2>Bike Sharing Assignment</h2>
 <br><br>
-Submitted By: Dharmendra Kumar
+<b>Submitted By: Dharmendra Kumar</b>
 <br><br>
 <h4>Introduction</h4>
 In this assignment we need to build a model for the prediction of demand for shared bikes.
